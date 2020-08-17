@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Yoga with Malvika 
 
 # Short description of your site
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Some Person
+author: Malvika Sood
 
 # --- List of links in the navigation bar --- #
 
@@ -39,9 +39,9 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  facebook: malvikacasper
+#  github: tushmakster
+  twitter: malvikacasper
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
